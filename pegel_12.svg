@@ -1,0 +1,16 @@
+<svg width="18" height="65" viewBox="0 0 18 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="20" width="18" height="45" fill="#FEC808"/>
+<rect y="20" width="3" height="15" fill="black"/>
+<rect x="3" y="20" width="6" height="3" fill="black"/>
+<rect x="3" y="32" width="6" height="3" fill="black"/>
+<rect x="3" y="26" width="6" height="3" fill="black"/>
+<rect y="50" width="3" height="15" fill="black"/>
+<rect x="3" y="50" width="6" height="3" fill="black"/>
+<rect x="3" y="62" width="6" height="3" fill="black"/>
+<rect x="3" y="56" width="6" height="3" fill="black"/>
+<rect x="18" y="50" width="3" height="15" transform="rotate(180 18 50)" fill="black"/>
+<rect x="15" y="50" width="6" height="3" transform="rotate(180 15 50)" fill="black"/>
+<rect x="15" y="38" width="6" height="3" transform="rotate(180 15 38)" fill="black"/>
+<rect x="15" y="44" width="6" height="3" transform="rotate(180 15 44)" fill="black"/>
+<path d="M4.632 12V4.452L5.652 5.436H3.072V3.6H7.008V12H4.632ZM8.22328 12V10.512L11.3673 7.572C11.5913 7.364 11.7553 7.18 11.8593 7.02C11.9713 6.86 12.0433 6.716 12.0753 6.588C12.1153 6.452 12.1353 6.328 12.1353 6.216C12.1353 5.944 12.0433 5.732 11.8593 5.58C11.6833 5.428 11.4153 5.352 11.0553 5.352C10.7513 5.352 10.4673 5.42 10.2033 5.556C9.93928 5.692 9.72328 5.896 9.55528 6.168L7.79128 5.184C8.10328 4.656 8.55528 4.232 9.14728 3.912C9.73928 3.592 10.4473 3.432 11.2713 3.432C11.9193 3.432 12.4873 3.536 12.9753 3.744C13.4633 3.952 13.8433 4.248 14.1153 4.632C14.3953 5.016 14.5353 5.468 14.5353 5.988C14.5353 6.26 14.4993 6.532 14.4273 6.804C14.3553 7.068 14.2153 7.352 14.0073 7.656C13.8073 7.952 13.5073 8.284 13.1073 8.652L10.6113 10.956L10.2153 10.116H14.7633V12H8.22328Z" fill="white"/>
+</svg>

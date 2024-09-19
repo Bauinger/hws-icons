@@ -1,0 +1,16 @@
+<svg width="18" height="65" viewBox="0 0 18 65" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="20" width="18" height="45" fill="#FEC808"/>
+<rect y="20" width="3" height="15" fill="black"/>
+<rect x="3" y="20" width="6" height="3" fill="black"/>
+<rect x="3" y="32" width="6" height="3" fill="black"/>
+<rect x="3" y="26" width="6" height="3" fill="black"/>
+<rect y="50" width="3" height="15" fill="black"/>
+<rect x="3" y="50" width="6" height="3" fill="black"/>
+<rect x="3" y="62" width="6" height="3" fill="black"/>
+<rect x="3" y="56" width="6" height="3" fill="black"/>
+<rect x="18" y="50" width="3" height="15" transform="rotate(180 18 50)" fill="black"/>
+<rect x="15" y="50" width="6" height="3" transform="rotate(180 15 50)" fill="black"/>
+<rect x="15" y="38" width="6" height="3" transform="rotate(180 15 38)" fill="black"/>
+<rect x="15" y="44" width="6" height="3" transform="rotate(180 15 44)" fill="black"/>
+<path d="M4.632 12V4.452L5.652 5.436H3.072V3.6H7.008V12H4.632ZM11.0793 12.168C10.4953 12.168 9.91128 12.096 9.32728 11.952C8.75128 11.808 8.24728 11.604 7.81528 11.34L8.67928 9.552C9.01528 9.776 9.38728 9.948 9.79528 10.068C10.2113 10.188 10.6153 10.248 11.0073 10.248C11.4153 10.248 11.7393 10.172 11.9793 10.02C12.2193 9.868 12.3393 9.652 12.3393 9.372C12.3393 9.124 12.2393 8.928 12.0393 8.784C11.8393 8.632 11.5113 8.556 11.0553 8.556H10.0593V7.056L12.3153 4.62L12.5433 5.436H8.24728V3.6H14.3193V5.088L12.0633 7.524L10.8993 6.864H11.5473C12.5953 6.864 13.3873 7.1 13.9233 7.572C14.4673 8.036 14.7393 8.636 14.7393 9.372C14.7393 9.852 14.6073 10.304 14.3433 10.728C14.0873 11.152 13.6913 11.5 13.1553 11.772C12.6193 12.036 11.9273 12.168 11.0793 12.168Z" fill="white"/>
+</svg>
